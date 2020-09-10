@@ -1,0 +1,15 @@
+*** STUDENT KARDEX ***
+NAME: aaa bbb
+PHONE: 111111
+ROLL NUMBER: 2
+
+NOTES
+--------------------
+*ccc
+ddddd
+eeeeee
+ffffff
+*xxx
+yyyyyyyy
+zzzzzzzz
+zzzzzzzz

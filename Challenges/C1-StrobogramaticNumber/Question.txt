@@ -1,0 +1,21 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Twitter.
+
+A strobogrammatic number is a positive number that appears 
+the same after being rotated 180 degrees. 
+For example, 16891 is strobogrammatic.
+
+Create a program that finds all strobogrammatic numbers with N digits.
+
+Description:
+When written using standard characters (ASCII), the numbers, 0, 1, 8 are symmetrical around the horizontal axis, and 6 and 9 are the same as each other when rotated 180 degrees. In such a system, the first few strobogrammatic numbers are:
+
+0, 1, 8, 11, 69, 88, 96, 101, 111, 181, 609, 619, 689, 808, 818, 888, 906, 916, 986, 1001, 1111, 1691, 1881, 1961, 6009, 6119, 6699, 6889, 6969, 8008, 8118, 8698, 8888, 8968, 9006, 9116, 9696, 9886, 9966, ... (sequence A000787 in the OEIS)
+
+The first few strobogrammatic primes are:
+
+11, 101, 181, 619, 16091, 18181, 19861, 61819, 116911, 119611, 160091, 169691, 191161, 196961, 686989, 688889, ... (sequence A007597 in the OEIS)
+The years 1881 and 1961 were the most recent strobogrammatic years; the next strobogrammatic year will be 6009.
+
+Although amateur aficionados of mathematics are quite interested in this concept, professional mathematicians generally are not. Like the concept of repunits and palindromic numbers, the concept of strobogrammatic numbers is base-dependent (expanding to base-sixteen, for example, produces the additional symmetries of 3/E; some variants of duodecimal systems also have this and a symmetrical x). Unlike palindromes, it is also font dependent. The concept of strobogrammatic numbers is not neatly expressible algebraically, the way that the concept of repunits is, or even the concept of palindromic numbers.

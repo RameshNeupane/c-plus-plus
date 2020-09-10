@@ -1,0 +1,10 @@
+*** STUDENT KARDEX ***
+NAME: Ramesh Neupane
+PHONE: 1234567
+ROLL NUMBER: 1
+
+NOTES
+--------------------
+*Math
+Excellent
+Excellent
